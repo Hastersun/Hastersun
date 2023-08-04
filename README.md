@@ -1,14 +1,13 @@
-# Hey Guy👋Here is Haster Sun
-![Age](https://img.shields.io/badge/Age-14-critical)
-![](https://img.shields.io/badge/Job-trailblazers-brightgreen)
-![](https://img.shields.io/badge/Genshin%20Impact-225754593-brightgreen)
-
+# Hey there!👋 My name is Haster Sun.
+## About Me
+I'm a 14-year-old student.
+I enjoy coding, and I use Atom as my primary coding tool.
+I find the ocean calming and enjoy exploring it.
+## Interests
+Coding
+Exploring the ocean
+## Contact Me
+Email: psun58959@gmail.com
+GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Hastersun&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-🐠I am a scholar,now I am 14 years old.
-<br>
-🌴I like coding with Atom.
-<br>
-🐚I like ocean ,it make me calm.
-<br>
-📫Email me at psun58959@gmail.com.
-
+Thank you for reading, and I look forward to connecting with you!
