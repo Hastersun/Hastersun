@@ -8,6 +8,7 @@ Coding
 Exploring the ocean
 ## Contact Me
 Email: psun58959@gmail.com
+Twitter:https://twitter.com/hastersun7
 <br>
 ## GitHub Stats
 <br>
