@@ -1,13 +1,13 @@
 # Hey there!👋 My name is Haster Sun.
 ## About Me
-I'm a 14-year-old student.
-I enjoy coding, and I use Atom as my primary coding tool.
+I'm a 16-year-old student.
+I enjoy coding, and I use VSCode as my primary coding tool.
 I find the ocean calming and enjoy exploring it.
 ## Interests
 Coding
 Exploring the ocean
 ## Contact Me
-Email: psun58959@gmail.com
+Email: hastersun@zohomail.com
 Twitter:https://twitter.com/hastersun7
 <br>
 ## GitHub Stats
